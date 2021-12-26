@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fldevz&color=red" alt="Profile Views" /> </p>
 
 <div>
-  <a href="https://beacons.ai/fldevz">
+  <a href="https://discordapp.com/users/348164462672347142">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fldevz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </div>
   
