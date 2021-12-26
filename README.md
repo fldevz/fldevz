@@ -12,6 +12,7 @@
   ##
   
   <div>
-  <a href="https://discordapp.com/users/348164462672347142" taget="_blank">
+  <a href="https://discordapp.com/users/348164462672347142" taget="_blank"><img src="https://img.shield.io/badges/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target ="_blank"></a>
+ </div>
 
   
