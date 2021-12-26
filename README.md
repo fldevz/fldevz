@@ -7,3 +7,8 @@
   
   <div style="display: inlinen_block"><br>
     <img aling="center" alt="Rafa-JS" height="30" witdth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+    ##
+    
+    <div>
+      <a href="https://discordapp.com/users/348164462672347142" taget="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?styl=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
