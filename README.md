@@ -7,8 +7,6 @@
   
   <div style="display: inlinen_block"><br>
     <img aling="center" alt="Rafa-JS" height="30" witdth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-    ##
     
     <div>
       <a href="https://img.shields.io/discord/ae"></a>
