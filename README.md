@@ -1,4 +1,4 @@
-# Olá! Prazer, [fl](https://discordapp.com/users/348164462672347142) 👋
+# Olá! Prazer, fl 👋
 
 <div>
   <a href="https://beacons.ai/fldevz">
