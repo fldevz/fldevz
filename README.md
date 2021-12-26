@@ -11,4 +11,4 @@
     ##
     
     <div>
-      <a href="https://discordapp.com/users/348164462672347142" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?styl=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+      <a href="https://discordapp.com/users/348164462672347142" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
